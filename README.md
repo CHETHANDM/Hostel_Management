@@ -5,30 +5,30 @@ The Hostel Study Management System is designed to facilitate the academic manage
 
 
 # Study Schedule Management:
-Create and manage individual study schedules.
-Set study goals and reminders.
-Allocate time slots for different subjects or activities.
+Create and manage individual study schedules.<br>
+Set study goals and reminders.<br>
+Allocate time slots for different subjects or activities.<br>
 
 # Progress Tracking:
-Monitor academic progress and performance.
-Track assignment deadlines, exam dates, and results.
-Generate performance reports and analytics.
+Monitor academic progress and performance.<br>
+Track assignment deadlines, exam dates, and results.<br>
+Generate performance reports and analytics.<br>
 
 # Resource Management:
-Manage study materials and resources.
-Track availability and usage of study rooms and equipment.
-Provide access to digital resources and reference materials.
+Manage study materials and resources.<br>
+Track availability and usage of study rooms and equipment.<br>
+Provide access to digital resources and reference materials.<br>
 
 # Communication:
-Facilitate communication between students and hostel management.
-Share important announcements and study-related notifications.
-Organize group study sessions or tutoring appointments.
+Facilitate communication between students and hostel management.<br>
+Share important announcements and study-related notifications.<br>
+Organize group study sessions or tutoring appointments.<br>
 
 # Feedback and Improvement:
-Collect feedback from students regarding study resources and support.
-Implement improvements based on student suggestions and performance data.
+Collect feedback from students regarding study resources and support.<br>
+Implement improvements based on student suggestions and performance data.<br>
 
 # Benefits:
-Improved organization and time management for students.
-Enhanced tracking of academic progress and resource utilization.
-Better communication and coordination within the hostel environment.
+Improved organization and time management for students.<br>
+Enhanced tracking of academic progress and resource utilization.<br>
+Better communication and coordination within the hostel environment.<br>
