@@ -32,3 +32,6 @@ Implement improvements based on student suggestions and performance data.<br>
 Improved organization and time management for students.<br>
 Enhanced tracking of academic progress and resource utilization.<br>
 Better communication and coordination within the hostel environment.<br>
+
+# short clip 
+https://github.com/user-attachments/assets/25de048f-a4ca-470d-98f1-c6f2e5898324
